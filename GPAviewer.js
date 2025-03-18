@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Loyola Syllabus History GPA Viewer
+// @name         Loyola Syllabus GPA Viewer
 // @namespace    http://tampermonkey.net/
 // @version      2025-03-18
 // @description  History GPA Viewer for Loyola
